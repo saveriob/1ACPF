@@ -47,7 +47,7 @@ t_testfeeder = reshape(t_testfeeder.',3*n,1)/180*pi;
 % Linearized model
 
 e0 = [1;zeros(n-1,1)];
-a = exp(-1j*2*pi/3)
+a = exp(-1j*2*pi/3);
 aaa = [1; a; a^2];
 
 VTV = [kron(e0',eye(3)), zeros(3, 3*n), zeros(3, 3*n), zeros(3, 3*n)];
