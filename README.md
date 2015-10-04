@@ -1,7 +1,7 @@
 1ACPF
 =========
 
-This repository contains the GNU Octave and MatPower source code used in the paper.
+This repository contains the GNU Octave and MatPower source code used in the paper:
 
 S. Bolognani and F. Dörfler, "Fast power system analysis via implicit linearization of the power flow manifold,"
 presented at the 53rd Annual Allerton Conference on Communication, Control, and Computing in Monticello, IL (2015).

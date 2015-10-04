@@ -1,16 +1,3 @@
-%	This code generates the simulations included in
-%
-%	S. Bolognani, F. Dörfler (2015)
-%	"Fast power system analysis via implicit linearization of the power flow manifold."
-%	In Proc. 53rd Annual Allerton Conference on Communication, Control, and Computing.
-%	Preprint available at http://control.ee.ethz.ch/~bsaverio/papers/BolognaniDorfler_Allerton2015.pdf
-%
-%	This source code is distributed in the hope that it will be useful, but without any warranty.
-%
-%	MatLab OR GNU Octave, version 3.8.1 available at http://www.gnu.org/software/octave/
-%	MATPOWER 5.1 available at http://www.pserc.cornell.edu/matpower/
-%
-
 clear all
 close all
 clc
